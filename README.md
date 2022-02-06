@@ -3,9 +3,9 @@ I am a junior fullstack developer from VietNam!
 
 I'm 22 years old and I have 1 year of experience in ReactJS (Frontend) and NodeJS (Backend)
 <br/>
-🌱 I’m currently learning NestJS <br/>
-👯 I’m looking to collaborate on NestJS <br/>
-🤔 I’m looking for help with NestJS<br/>
+🌱 I’m currently learning NestJS, NextJS <br/>
+👯 I’m looking to collaborate on NestJS, NextJS <br/>
+🤔 I’m looking for help with NestJS, NextJS<br/>
 <h3>Skills and Experience </h3>
 <ul>
   <li>ReactJS</li>
