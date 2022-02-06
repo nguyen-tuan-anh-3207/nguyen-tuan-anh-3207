@@ -1,4 +1,4 @@
-<strong>Hi there 👋,My name is Tuan Anh. </strong> <br/>
+<strong>Hi there 👋, my name is Tuan Anh. </strong> <br/>
 I am a junior fullstack developer from VietNam!
 
 I'm 22 years old and I have 1 year of experience in ReactJS (Frontend) and NodeJS (Backend)
